@@ -6,7 +6,7 @@ const Header = () => {
       <nav className="flex justify-between items-center max-w-6xl mx-auto">
         <div className="text-2xl font-bold">
           <a href="#hh" className="hover:text-green-400">
-            Lalith's Portfolio
+            My Portfolio
           </a>
         </div>
         <ul className="flex space-x-6 text-lg">
