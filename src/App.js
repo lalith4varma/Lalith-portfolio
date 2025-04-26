@@ -19,9 +19,11 @@ const App = () => {
           <p className="text-lg mb-8 text-gray-700">
             Let's explore me through my projects and certifications here !
           </p>
+          <a href="#about">
           <button className="bg-green-700 text-white hover:bg-green-900 transition px-6 py-3 rounded-lg text-lg shadow-lg">
             Learn More
           </button>
+          </a>
         </div>
       </section>
 
@@ -98,7 +100,7 @@ const App = () => {
         title: "Introduction To Tableau",
         desc: "Issued by Simplilearn",
         bg: "bg-gray-50 text-gray-800",
-        url: "https://www.linkedin.com/posts/lalith-adithya-varma-g-28337b1a5_im-excited-to-have-earned-the-introduction-activity-7321244555851325442-y9R3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_uNsMBtZ17i4w_ldB0Unh1wEKRtwB922U", 
+        url: "https://drive.google.com/file/d/1jDNuaAFKSskYdXpFvqgjh2rVbtKY6z4N/view?usp=drive_link", 
       },
       {
         title: "Cybersecurity Fundamentals",
@@ -144,7 +146,7 @@ const App = () => {
         <p className="mt-4 flex justify-center gap-6">
           {/* LinkedIn Link with Icon */}
           <a
-            href="https://www.linkedin.com/in/lalith-adithya-varma-g-28337b1a5/"
+            href="https://www.linkedin.com/in/lalith-adithya-varma"
             className="inline-flex items-center gap-2 text-lg hover:text-blue-600"
             target="_blank"
             rel="noopener noreferrer"
