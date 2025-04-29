@@ -35,7 +35,7 @@ const App = () => {
             I'm <span className="text-green-400 font-semibold">Lalith</span>, a developer who loves blending{' '}
             <span className="text-gray-300">creativity</span> with{' '}
             <span className="text-gray-300">technology</span>. I love building apps that are vibrant, functional, and approachable.
-            I've completed my master's degree in computer Applications (MCA).I am looking forward for an opportunity where i could apply my skills in the real world projects !
+            I've completed my graduation and I am looking forward for an opportunity where i could apply my skills in the real world projects !
           </p>
         </div>
       </section>

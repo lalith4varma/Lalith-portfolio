@@ -3,13 +3,8 @@ import React from "react";
 const Header = () => {
   return (
     <header className="bg-gray-800 text-gray-50 py-4 px-4">
-      <nav className="flex justify-between items-center max-w-6xl mx-auto">
-        <div className="text-2xl font-bold">
-          <a href="#hh" className="hover:text-green-400">
-            My Portfolio
-          </a>
-        </div>
-        <ul className="flex space-x-6 text-lg">
+      <nav className="flex justify-center items-center max-w-7xl mx-auto w-full">
+        <ul className="flex space-x-16 text-lg">
           <li>
             <a href="#about" className="hover:text-green-400">
               About
