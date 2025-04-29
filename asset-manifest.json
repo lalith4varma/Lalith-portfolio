@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lalith-portfolio/static/css/main.f6eb4e48.css",
-    "main.js": "/Lalith-portfolio/static/js/main.b8b2d386.js",
+    "main.css": "/Lalith-portfolio/static/css/main.f77fb727.css",
+    "main.js": "/Lalith-portfolio/static/js/main.dbb26ccc.js",
     "static/js/453.a3a9bdfd.chunk.js": "/Lalith-portfolio/static/js/453.a3a9bdfd.chunk.js",
     "index.html": "/Lalith-portfolio/index.html",
-    "main.f6eb4e48.css.map": "/Lalith-portfolio/static/css/main.f6eb4e48.css.map",
-    "main.b8b2d386.js.map": "/Lalith-portfolio/static/js/main.b8b2d386.js.map",
+    "main.f77fb727.css.map": "/Lalith-portfolio/static/css/main.f77fb727.css.map",
+    "main.dbb26ccc.js.map": "/Lalith-portfolio/static/js/main.dbb26ccc.js.map",
     "453.a3a9bdfd.chunk.js.map": "/Lalith-portfolio/static/js/453.a3a9bdfd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6eb4e48.css",
-    "static/js/main.b8b2d386.js"
+    "static/css/main.f77fb727.css",
+    "static/js/main.dbb26ccc.js"
   ]
 }
